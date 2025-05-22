@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     siteName: 'Enoreso',
     images: [
       {
-        url: '/assets/images/your-image-file.png', // <-- replace with actual image filename
+        url: '/images/enovate.png', // <-- replace with actual image filename
         width: 1200,
         height: 630,
         alt: 'Enovate Resources Ltd - IT Solutions Provider',
