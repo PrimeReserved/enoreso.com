@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     siteName: 'Enoreso',
     images: [
       {
-        url: '/images/enovate.png', // <-- replace with actual image filename
+        url: 'https://res.cloudinary.com/dzd51q99i/image/upload/f_auto,q_auto/v1/enoreso.com/z4feibx9diw9fheykusw',
         width: 1200,
         height: 630,
         alt: 'Enovate Resources Ltd - IT Solutions Provider',
