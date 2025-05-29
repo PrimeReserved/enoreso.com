@@ -119,7 +119,7 @@ const Footer: React.FC<FooterProps> = ({ className = '' }) => {
                     <Link
                       key={social.name}
                       href={social.href}
-                      className="group p-3 bg-gray-800 rounded-full hover:bg-blue-600 transition-all duration-300 transform hover:scale-110"
+                      className="group p-3 bg-gray-800 rounded-full hover:bg-primaryOrange transition-all duration-300 transform hover:scale-110"
                       aria-label={social.name}
                     >
                       <IconComponent
