@@ -17,8 +17,8 @@ const TrustedClientsSection: React.FC<TrustedClientsSectionProps> = ({
     'Bouygues Company Nigeria Ltd (BCNL)',
     'Guaranteed Trust Bank Plc (GTB)',
     'Access Bank Plc',
-    'Polaris',
     'IPNX',
+    'Polaris',
   ];
 
   return (
@@ -55,7 +55,7 @@ const TrustedClientsSection: React.FC<TrustedClientsSectionProps> = ({
               </div>
 
               {/* Quote Card */}
-              <div className="absolute -bottom-32 left-4 right-4 md:-bottom-32 lg:-bottom-32 lg:-left-60 lg:right-60">
+              <div className="absolute -bottom-32 left-4 right-4 md:-bottom-32 lg:-bottom-32 lg:-left-16 lg:right-16">
                 <div className="bg-white rounded p-8 md:p-10 lg:p-12 shadow-xl border-l-4 border-primary transform lg:translate-x-0">
                   <p className="text-gray-800 text-lg md:text-xl lg:text-2xl font-semibold leading-relaxed">
                     Driven by passion and purpose, we turn ideas into impactful
