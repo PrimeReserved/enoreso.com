@@ -54,7 +54,7 @@ const Footer: React.FC<FooterProps> = ({ className = '' }) => {
             <div className="space-y-8">
               <p className="text-lg leading-relaxed text-gray-300 max-w-md transition-colors duration-300 hover:text-white">
                 Enovate Resources Ltd, delivering innovative IT solutions with
-                excellence and passion since 2020.
+                excellence and passion since 2020
               </p>
 
               {/* Office Address */}
