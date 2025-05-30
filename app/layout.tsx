@@ -1,6 +1,8 @@
 import type { Metadata } from 'next';
 import { Inter, Roboto_Mono } from 'next/font/google';
 import './globals.css';
+import Header from '@/components/Header/Header';
+import Footer from '@/components/Footer/Footer';
 
 const inter = Inter({
   variable: '--font-inter',
@@ -32,6 +34,9 @@ export const metadata: Metadata = {
   authors: [{ name: 'Enovate Resources Ltd', url: 'https://www.enoreso.com' }],
   creator: 'Enovate Resources Ltd',
   publisher: 'Enovate Resources Ltd',
+  icons: {
+    icon: '/favicon.ico',
+  },
   openGraph: {
     title: 'Enovate Resources Ltd | IT Solutions & Infrastructure Services',
     description:
@@ -58,9 +63,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en">
-      <body className={`${inter.variable} ${robotoMono.variable} antialiased`}>
-        {children}
+    <html lang="en" className={inter.className}>
+      <body>
+        <Header />
+        <main>{children}</main>
+        <Footer />
       </body>
     </html>
   );
