@@ -75,7 +75,7 @@ const Footer: React.FC<FooterProps> = ({ className = '' }) => {
               {/* Phone Numbers */}
               <div className="space-y-4">
                 <h3 className="text-xl font-semibold text-white">
-                  Phone number:
+                  Phone Numbers:
                 </h3>
                 <div className="text-gray-300">
                   <p className="transition-colors duration-300 hover:text-blue-400 cursor-pointer">
@@ -169,7 +169,7 @@ const Footer: React.FC<FooterProps> = ({ className = '' }) => {
                     <Link
                       key={social.name}
                       href={social.href}
-                      className="group p-3 bg-gray-800 rounded-full hover:bg-blue-600 transition-all duration-300 transform hover:scale-110"
+                      className="group p-3 bg-gray-800 rounded-full hover:bg-primaryOrange transition-all duration-300 transform hover:scale-110"
                       aria-label={social.name}
                     >
                       <IconComponent
@@ -219,11 +219,17 @@ const Footer: React.FC<FooterProps> = ({ className = '' }) => {
               {/* Phone Numbers */}
               <div className="space-y-4">
                 <h3 className="text-xl font-semibold text-white">
-                  Phone number:
+                  Phone Numbers:
                 </h3>
-                <div className="text-gray-300">
+                <div className="text-gray-300 flex flex-col lg:flex-row lg:space-x-4 space-y-2 lg:space-y-0">
                   <p className="transition-colors duration-300 hover:text-blue-400 cursor-pointer">
-                    08063303939, 08039736247, 08067663099
+                    08063303939
+                  </p>
+                  <p className="transition-colors duration-300 hover:text-blue-400 cursor-pointer">
+                    08039736247
+                  </p>
+                  <p className="transition-colors duration-300 hover:text-blue-400 cursor-pointer">
+                    08067663099
                   </p>
                 </div>
               </div>
