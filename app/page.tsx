@@ -10,7 +10,7 @@ export default function HomePage() {
   return (
     <main>
       <HeroHome
-        backgroundImage="https://res.cloudinary.com/dzd51q99i/image/upload/f_auto,q_auto/v1/enoreso.com/s7fv0odjy0idallqicx5"
+        backgroundImage="https://res.cloudinary.com/dzd51q99i/image/upload/f_auto,q_auto/v1/enoreso.com/Stock%20Photos/emqhun8rnersi7iwfozm"
         heading="Powering Possibilities Through Technology"
         paragraph="At Enovate Resources Ltd, we don't follow trends we engineer the future of IT infrastructure."
         buttonText="CONTACT US"
@@ -26,7 +26,7 @@ export default function HomePage() {
       <div id="about">
         <VisionSection />
       </div>
-      <CallToActionSection backgroundImage="https://res.cloudinary.com/dzd51q99i/image/upload/f_auto,q_auto/v1/enoreso.com/s7fv0odjy0idallqicx5" />
+      <CallToActionSection backgroundImage="https://res.cloudinary.com/dzd51q99i/image/upload/f_auto,q_auto/v1/enoreso.com/Stock%20Photos/Home%20Section/ku96mjovwtfjkl9qtokh" />
     </main>
   );
 }

@@ -12,7 +12,7 @@ const ImageTextSection: React.FC = () => {
             {/* Image */}
             <div className="relative overflow-hidden rounded-lg shadow-lg">
               <Image
-                src="https://res.cloudinary.com/dzd51q99i/image/upload/f_auto,q_auto/v1/enoreso.com/s7fv0odjy0idallqicx5"
+                src="https://res.cloudinary.com/dzd51q99i/image/upload/f_auto,q_auto/v1/enoreso.com/Stock%20Photos/Home%20Section/w2t0iumqvy31t0xpwskl"
                 alt="Professional architect working with building models"
                 width={600}
                 height={400}

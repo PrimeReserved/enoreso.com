@@ -8,14 +8,14 @@ export default function ServicesPage() {
   return (
     <div>
       <HeroBox
-        backgroundImage="https://res.cloudinary.com/dzd51q99i/image/upload/f_auto,q_auto/v1/enoreso.com/s7fv0odjy0idallqicx5"
+        backgroundImage="https://res.cloudinary.com/dzd51q99i/image/upload/f_auto,q_auto/v1/enoreso.com/Stock%20Photos/Services%20Section/r4engh7fuaizqmcgsfun"
         title="Services"
         overlayOpacity={0.7}
         height="h-80 md:h-96"
       />
       <ImageTextSection />
       <ServicesSection />
-      <CallToActionSection backgroundImage="https://res.cloudinary.com/dzd51q99i/image/upload/f_auto,q_auto/v1/enoreso.com/s7fv0odjy0idallqicx5" />
+      <CallToActionSection backgroundImage="https://res.cloudinary.com/dzd51q99i/image/upload/f_auto,q_auto/v1/enoreso.com/Stock%20Photos/Home%20Section/ku96mjovwtfjkl9qtokh" />
     </div>
   );
 }

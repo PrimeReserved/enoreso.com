@@ -33,7 +33,7 @@ const ServicesSection: React.FC<ServicesSectionProps> = ({
       paragraph:
         'We design and implement backup power systems for businesses of all sizes, serving both private and public sectors.',
       expandedContent:
-        "Our comprehensive solar backup solutions include system design, installation, and maintenance. We provide custom-engineered systems that ensure uninterrupted power supply during outages. Our team handles everything from initial site assessment to ongoing monitoring and support. We use high-quality inverters, batteries, and solar panels that are built to last. Additionally, we offer remote monitoring capabilities so you can track your system's performance in real-time.",
+        'Our comprehensive solar backup solutions include system design, installation, and maintenance. We provide custom-engineered systems that ensure uninterrupted power supply during outages. Our team handles everything from initial site assessment to ongoing monitoring and support.',
     },
     {
       image:
@@ -43,7 +43,7 @@ const ServicesSection: React.FC<ServicesSectionProps> = ({
       paragraph:
         'Our team provide reliable CCTV maintenance to keep your security systems running smoothly.',
       expandedContent:
-        'We offer comprehensive CCTV maintenance services including regular system health checks, camera cleaning and calibration, DVR/NVR updates, and 24/7 monitoring support. Our certified technicians perform preventive maintenance to identify potential issues before they become problems. We also provide emergency repair services and system upgrades to ensure your security infrastructure remains cutting-edge and reliable.',
+        'We offer comprehensive CCTV maintenance services including regular system health checks, camera cleaning and calibration, DVR/NVR updates, and 24/7 monitoring support. Our certified technicians perform preventive maintenance to identify potential issues and make upgrades to ensure your security infrastructure remains cutting-edge and reliable.',
     },
     {
       image:
@@ -53,7 +53,7 @@ const ServicesSection: React.FC<ServicesSectionProps> = ({
       paragraph:
         'We ensure timely, budget-friendly project delivery with full accountability.',
       expandedContent:
-        'Our project management approach combines industry best practices with cutting-edge tools to deliver exceptional results. We assign dedicated project managers who oversee every aspect from planning to execution. Our methodology includes risk assessment, resource allocation, timeline management, and quality assurance. We provide regular progress reports and maintain transparent communication throughout the project lifecycle to ensure stakeholder satisfaction.',
+        'Our project management approach combines industry best practices with cutting-edge tools to deliver exceptional results. We assign dedicated project managers who oversee every aspect from planning to execution and our methodology includes risk assessment, resource allocation, timeline management, and quality assurance.',
     },
     {
       image:
@@ -63,7 +63,7 @@ const ServicesSection: React.FC<ServicesSectionProps> = ({
       paragraph:
         'We source from licensed suppliers, fulfill client specs, and deliver quality products with expert guidance.',
       expandedContent:
-        'Our procurement team has established relationships with leading technology vendors worldwide. We handle everything from vendor selection and price negotiation to quality assurance and logistics. Our experts evaluate products based on technical specifications, cost-effectiveness, and long-term reliability. We also provide post-purchase support including installation guidance, warranty management, and technical consultation.',
+        'Our procurement team has established relationships with leading technology vendors worldwide. We handle everything from vendor selection and price negotiation to quality assurance and logistics. Our experts evaluate products based on technical specifications, and long-term reliability.',
     },
     {
       image:
@@ -73,7 +73,7 @@ const ServicesSection: React.FC<ServicesSectionProps> = ({
       paragraph:
         'Our tech team delivers cost-effective access control with integrated emergency management for workplace safety.',
       expandedContent:
-        'We design and implement sophisticated access control systems including biometric scanners, card readers, and mobile access solutions. Our systems integrate with fire safety and emergency protocols to ensure compliance with safety regulations. We provide user management software, audit trails, and real-time monitoring capabilities. Our solutions scale from small offices to large enterprise facilities with centralized management and reporting.',
+        'We design and implement sophisticated access control systems including biometric scanners, card readers, and mobile access solutions. Our systems integrate with fire safety and emergency protocols to ensure compliance with safety regulations. We provide user management software, audit trails, and real-time monitoring capabilities.',
     },
     {
       image:
@@ -83,7 +83,7 @@ const ServicesSection: React.FC<ServicesSectionProps> = ({
       paragraph:
         'We training our team and clients with top-notch tech and OEM support for excellence in service delivery.',
       expandedContent:
-        'Our comprehensive training programs cover both technical skills and industry best practices. We offer hands-on workshops, certification programs, and ongoing professional development. Our curriculum includes the latest technologies, safety protocols, and industry standards. We also provide customized training solutions tailored to specific client needs and maintain partnerships with leading technology manufacturers for specialized certification programs.',
+        'Our comprehensive training programs cover both technical skills and industry best practices. We offer hands-on workshops, certification programs, and ongoing professional development. Our curriculum includes the latest technologies, safety protocols, and industry standards.',
     },
     {
       image:
@@ -93,7 +93,7 @@ const ServicesSection: React.FC<ServicesSectionProps> = ({
       paragraph:
         'We create reliable, efficient land use through verified listings and smart networking tools.',
       expandedContent:
-        'Our land networking solutions include comprehensive site surveys, network infrastructure design, and implementation of robust communication systems. We specialize in creating reliable connections across challenging terrains using the latest wireless technologies, fiber optic cables, and satellite communications. Our team handles everything from initial site assessment to ongoing network monitoring and maintenance to ensure optimal performance.',
+        'Our land networking solutions include comprehensive site surveys, network infrastructure design, and implementation of robust communication systems. We specialize in creating reliable connections across challenging terrains using the latest wireless technologies, fiber optic cables, and satellite communications.',
     },
     {
       image:
@@ -103,7 +103,7 @@ const ServicesSection: React.FC<ServicesSectionProps> = ({
       paragraph:
         'We offer high-speed fiber optic solutions that ensure fast, reliable, and secure internet connectivity.',
       expandedContent:
-        'Our fiber optic services encompass design, installation, and maintenance of high-speed networks. We use premium fiber optic cables and equipment to deliver exceptional speed and reliability. Our solutions include fiber-to-the-home (FTTH), fiber-to-the-building (FTTB), and enterprise fiber networks. We provide comprehensive testing, splicing, and troubleshooting services to ensure optimal network performance and minimal downtime.',
+        'Our fiber optic services encompass design, installation, and maintenance of high-speed networks. We use premium fiber optic cables and equipment to deliver exceptional speed and reliability. Our solutions include fiber-to-the-home (FTTH), fiber-to-the-building (FTTB), and enterprise fiber networks.',
     },
   ];
 

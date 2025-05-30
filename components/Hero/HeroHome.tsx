@@ -70,7 +70,7 @@ const HeroHome: FC<HeroHomeProps> = ({
       </div>
 
       {/* Content Container */}
-      <div className="relative z-10 container mx-auto px-4 sm:px-6 lg:px-8">
+      <div className="relative z-10 container mx-auto px-4 sm:px-6 lg:px-8 -bottom-36 lg:bottom-0">
         <div className="max-w-6xl mx-auto">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
             {/* Left Content */}
@@ -84,7 +84,7 @@ const HeroHome: FC<HeroHomeProps> = ({
                 alignment="left"
                 textColor="white"
                 backgroundColor="rgba(0, 0, 0, 0.7)"
-                backgroundOpacity={70}
+                backgroundOpacity={80}
                 className="relative z-20 py-4"
               />
             </div>

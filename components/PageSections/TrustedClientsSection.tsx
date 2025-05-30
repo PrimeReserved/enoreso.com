@@ -48,7 +48,7 @@ const TrustedClientsSection: React.FC<TrustedClientsSectionProps> = ({
               {/* Main Image */}
               <div className="rounded-lg overflow-hidden lg:overflow-hidden shadow-lg -mt-24 md:-mt-32 lg:mt-8">
                 <img
-                  src="https://res.cloudinary.com/dzd51q99i/image/upload/f_auto,q_auto/v1/enoreso.com/s7fv0odjy0idallqicx5"
+                  src="https://res.cloudinary.com/dzd51q99i/image/upload/f_auto,q_auto/v1/enoreso.com/Stock%20Photos/Home%20Section/ckjctrqbputwsflbe3ti"
                   alt="Professional working on computer"
                   className="w-full h-[400px] md:h-[500px] lg:h-[600px] object-cover"
                 />

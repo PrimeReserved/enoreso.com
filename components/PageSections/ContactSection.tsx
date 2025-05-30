@@ -25,10 +25,10 @@ const ContactCard: React.FC<ContactCardProps> = ({
           {icon}
         </div>
       </div>
-      <h3 className="text-2xl font-bold text-gray-800 mb-4">{title}</h3>
+      <h3 className="text-2xl font-bold text-gray-900 mb-4">{title}</h3>
       <div className="space-y-2">
         {content.map((item, index) => (
-          <p key={index} className="text-gray-600 text-sm leading-relaxed">
+          <p key={index} className="text-gray-800 text-sm leading-relaxed">
             {item}
           </p>
         ))}
