@@ -29,9 +29,21 @@ const Footer: React.FC<FooterProps> = ({ className = '' }) => {
   ];
 
   const socialLinks = [
-    { name: 'Facebook', href: '#', icon: FiFacebook },
-    { name: 'LinkedIn', href: '#', icon: FiLinkedin },
-    { name: 'Instagram', href: '#', icon: FiInstagram },
+    {
+      name: 'Facebook',
+      href: 'https://www.facebook.com/share/1UinPPhXQm/',
+      icon: FiFacebook,
+    },
+    {
+      name: 'LinkedIn',
+      href: 'https://www.linkedin.com/in/enovate-resources-ltd',
+      icon: FiLinkedin,
+    },
+    {
+      name: 'Instagram',
+      href: 'https://www.instagram.com/enovateresources?igsh=OHl2ajl0YTV6YXFn',
+      icon: FiInstagram,
+    },
   ];
 
   return (

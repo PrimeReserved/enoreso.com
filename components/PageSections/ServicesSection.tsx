@@ -39,11 +39,11 @@ const ServicesSection: React.FC<ServicesSectionProps> = ({
       image:
         'https://res.cloudinary.com/dzd51q99i/image/upload/f_auto,q_auto/v1/enoreso.com/Stock%20Photos/Services%20Section/emanul9qo9bpnj4byzqs',
       icon: <FiVideo size={24} />,
-      header: 'CCTV Maintenance',
+      header: 'CCTV Installations and Maintenance',
       paragraph:
-        'Our team provide reliable CCTV maintenance to keep your security systems running smoothly.',
+        'Our team provide reliable CCTV Installations and Maintenance to keep your security systems running smoothly.',
       expandedContent:
-        'We offer comprehensive CCTV maintenance services including regular system health checks, camera cleaning and calibration, DVR/NVR updates, and 24/7 monitoring support. Our certified technicians perform preventive maintenance to identify potential issues and make upgrades to ensure your security infrastructure remains cutting-edge and reliable.',
+        'We offer this service including regular system health checks, camera cleaning and calibration, DVR/NVR updates, and 24/7 monitoring support. Our certified technicians perform preventive maintenance to identify potential issues and make upgrades to ensure your security infrastructure remains cutting-edge and reliable.',
     },
     {
       image:
@@ -89,11 +89,11 @@ const ServicesSection: React.FC<ServicesSectionProps> = ({
       image:
         'https://res.cloudinary.com/dzd51q99i/image/upload/f_auto,q_auto/v1/enoreso.com/Stock%20Photos/Services%20Section/czjp18qrikhnwgqzh8cf',
       icon: <FiWifi size={24} />,
-      header: 'Land Networking',
+      header: 'LAN Networking',
       paragraph:
-        'We create reliable, efficient land use through verified listings and smart networking tools.',
+        'We create reliable, efficient networks through verified connections and smart networking tools.',
       expandedContent:
-        'Our land networking solutions include comprehensive site surveys, network infrastructure design, and implementation of robust communication systems. We specialize in creating reliable connections across challenging terrains using the latest wireless technologies, fiber optic cables, and satellite communications.',
+        'Our LAN networking solutions include comprehensive site surveys, network infrastructure design, and implementation of robust communication systems. We specialize in creating reliable connections across challenging terrains using the latest wireless technologies, fiber optic cables, and satellite communications.',
     },
     {
       image:
